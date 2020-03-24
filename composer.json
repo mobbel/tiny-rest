@@ -3,7 +3,7 @@
     "description": "Simpel REST-API features.",
     "keywords": ["rest","api","tiny"],
     "type": "library",
-    "license": "MIT License",
+    "license": "MIT",
     "authors": [
         {
             "name": "Stephan Sperling",
