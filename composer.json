@@ -1,5 +1,5 @@
 {
-    "name": "Mobbel/tiny-rest",
+    "name": "mobbel/tiny-rest",
     "description": "Simpel REST-API features.",
     "keywords": ["rest","api","tiny"],
     "type": "library",
