@@ -1,6 +1,8 @@
 <?php
 
-class App {
+namespace Mobbel\TinyRest;
+
+class TinyRest {
     private $slugCache = null;
     private $method    = null;
     private $path      = null;
